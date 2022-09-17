@@ -1,5 +1,6 @@
 # ChasisMachine
 ## This machine was created using SolidWorks and the CNC plasma cuting machine!
+### It involves the design of roughly 300 different components
 
 ![ende9](https://user-images.githubusercontent.com/105079888/189726768-2b4ac701-49e7-40de-8788-c9bc4cb97f23.PNG)
 ![ende1](https://user-images.githubusercontent.com/105079888/189726774-0a67ac8e-3d65-4415-9c9e-94ba3618ea53.PNG)
